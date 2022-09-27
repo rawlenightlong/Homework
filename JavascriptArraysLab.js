@@ -200,7 +200,7 @@ Exercise 15:
   - Hint: Be sure to declare and initialize the total variable before the iterations.
 */
 
-// Complete Exercise 15 below...
+// Complete Exercise 15 below...ere
 
 let total = 0
 
